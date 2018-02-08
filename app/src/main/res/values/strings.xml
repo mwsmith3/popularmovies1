@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies, Stage 1</string>
+    <string name="popular_menu_option">Most Popular</string>
+    <string name="top_rated_menu_option">Top Rated</string>
+    <string name="vote_average_description">Vote average</string>
+    <string name="release_date_description">Release date</string>
+    <string name="movie_image_content_description">Movie poster</string>
+    <string name="movie_list_error_message">Unable to load movie data. Please check your internet connection!</string>
+</resources>
